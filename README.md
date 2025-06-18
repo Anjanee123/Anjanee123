@@ -63,4 +63,4 @@ Class XII – 64.5% | 2020
 
 ## 🏅 Achievements  
 - Recognized among top academic performers  
-- Two-time GATE qualified  
+  
