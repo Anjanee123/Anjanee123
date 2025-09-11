@@ -4,7 +4,7 @@ I’m **Anjanee Kumari**, a final-year B.Tech student with a strong passion for 
 ---
 
 ## 📞 Contact  
-📱 +91 9109094874  
+ 
 📧 anjaneebyt2003@gmail.com  
 💼 anjanee-kumari-5209b124a  
 
