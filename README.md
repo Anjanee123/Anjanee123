@@ -1,5 +1,5 @@
 # 💫 About Me  
-I’m **Anjanee Kumari**, a final-year B.Tech student with a strong passion for creating visually appealing and interactive web applications. Eager to apply my knowledge of the **MERN stack** and contribute to real-world projects. I am motivated, punctual, open-minded, and adaptive to various environments.
+I am Anjanee Kumari, a B.Tech graduate with a strong passion for Data Analytics. I have hands-on experience in Python, SQL, Excel, and Power BI, with a solid understanding of data cleaning, data transformation, and data visualization. I am skilled at converting raw data into meaningful insights to support decision-making. I am eager to apply my analytical and problem-solving abilities to real-world projects. I am a self-motivated, detail-oriented, and adaptable individual who is always willing to learn and grow.
 
 ---
 
@@ -23,7 +23,7 @@ Class XII – 64.5% | 2020
 ## 💼 Experience  
 **Front-End Web Developer Intern**  
 *CodSoft* | July 2023 – August 2023  
-**Tech Used:** HTML, CSS, JavaScript  
+**Tech Used:** HTML, CSS, power BI, EXCLE, PYTHON, SQL, JavaScript.Database,Os.
 - Developed and designed front-end components for web applications.  
 - Integrated animation for enhanced user engagement.
 
@@ -48,10 +48,10 @@ Class XII – 64.5% | 2020
 ---
 
 ## 🛠️ Technical Skills  
-- **Languages:** C++, Java (DSA, OOPS), JavaScript  
-- **Libraries:** React.js  
-- **Frameworks & Tools:** MySQL, Bootstrap  
-- **Web Technologies:** HTML, CSS  
+- **Languages:** C++, Java (DSA, OOPS), JavaScript, Excle, Power BI , Pyhton, Sql.
+- **Libraries:** React.js(basic) , Pandas, Numpy.
+- **Frameworks & Tools:** MySQL, PostgreSQL,SQL Server.
+- **Web Technologies:** HTML, CSS, Java script. 
 - **Other Skills:** Problem-solving, Leadership, Collaboration, Public Speaking  
 
 ---
